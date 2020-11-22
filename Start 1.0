@@ -1,0 +1,16 @@
+#include <stdio.h>
+/*
+  Labor 3
+	Laboraufgabe 3
+
+    Autor: *****, Matrikelnummer ******, Gruppe 2
+
+    Datum 22.11.2020
+
+    Version: 1.0
+
+    */
+int main(void){
+
+	return 0;
+}
